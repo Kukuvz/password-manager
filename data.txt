@@ -1,0 +1,5 @@
+twitter | angela@gmail.com | 1234
+ | angela@gmail.com | 
+Amazon | angela@gmail.com | qwerty
+asdsdfsfs | angela@gmail.com | dsadsfsdfdsf
+123 | angela@gmail.com | 123
